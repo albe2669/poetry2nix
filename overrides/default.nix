@@ -3422,7 +3422,7 @@ lib.composeManyExtensions [
               lockFile = ./ruff/0.7.2-Cargo.lock;
               outputHashes = {
                 "lsp-types-0.95.1" = "sha256-8Oh299exWXVi6A39pALOISNfp8XBya8z+KT/Z7suRxQ=";
-                "salsa-0.18.0" = "sha256-Gu7YVqEDJUSzBqTeZH1xU0b3CWsWZrEvjIg7QpUaKBw=";
+                "salsa-0.18.0" = "sha256-zUF2ZBorJzgo8O8ZEnFaitAvWXqNwtHSqx4JE8nByIg=";
               };
             };
             "0.6.1" = {
